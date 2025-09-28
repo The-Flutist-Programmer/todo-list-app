@@ -13,6 +13,6 @@
 4. Open the cloned folder in Visual Studio Code
 5. Right-click on the `index.html` file and select "Open with Live Server".
 6. Your default web browser will open and display the website.
-7. And that's it! You have successfully created and run your first website in less than one hour.
+7. And that's it! You have successfully created a todo list app on one Hour!!!
 
 See you in the next project. Happy coding 🙂!
